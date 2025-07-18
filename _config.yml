@@ -15,17 +15,15 @@ author:
   name             : "Mustafa Guzel"
   pronouns         :  
   bio              : "Food microbiologist studying antimicrobial resistance, phage biology, microbial genomics, and food safety."
-  location         : "Turkey"
-  employer         : "Your University or Institute"
+  location         : "Turkiye"
+  employer         : "Hitit University"
   uri              :  
-  email            : "your.email@example.com" 
+  email            : "musguzel@gmail.com" 
 
-  googlescholar    : "https://scholar.google.com"
-  orcid            : "http://orcid.org/your-orcid-id"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/"
-  researchgate     : "https://www.researchgate.net/"
+  googlescholar    : "https://scholar.google.com/citations?user=VS6KyJIAAAAJ&hl=en&inst=9897619243961157265"
+  orcid            : "https://orcid.org/0000-0002-4750-7488"
   github           : "musguzel"
-  linkedin         : "your-linkedin-id"
+  linkedin         : "https://www.linkedin.com/in/mustafa-guzel-95580012b/"
 
 # Publication Categories
 publication_category:
