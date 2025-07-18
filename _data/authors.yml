@@ -1,18 +1,11 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+mustafa:
+  name        : "Mustafa Guzel"
+  avatar      : "profile.png" # You can later add a real photo into the images folder
+  bio         : "Food microbiologist studying antimicrobial resistance, bacteriophages, microbial genomics, and food safety."
+  location    : "Turkey"
+  employer    : "Your University or Institute"
+  email       : "your.email@example.com"
+  googlescholar : "https://scholar.google.com"
+  github      : "musguzel"
+  orcid       : "https://orcid.org/your-orcid-id"
+  linkedin    : "your-linkedin-id"
