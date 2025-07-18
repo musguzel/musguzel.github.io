@@ -1,6 +1,6 @@
 mustafa:
   name        : "Mustafa Guzel"
-  avatar      : "profile.jpg" # You can later add a real photo into the images folder
+  avatar      : "profile.png" # You can later add a real photo into the images folder
   bio         : "Food microbiologist studying antimicrobial resistance, bacteriophages, microbial genomics, and food safety."
   location    : "Turkiye"
   employer    : "Hititte University"
